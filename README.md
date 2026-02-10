@@ -45,7 +45,7 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: MOHAN KRISHNA J
+### Name: MOHAN KRISHNA 
 
 ### Register Number: 212223220060
 
