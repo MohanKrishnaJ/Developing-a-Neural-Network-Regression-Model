@@ -45,9 +45,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: THIRUMURUGAN R
+### Name: MOHAN KRISHNA J
 
-### Register Number: 212223220118
+### Register Number: 212223220060
 
 ```
 import torch
@@ -74,8 +74,8 @@ y_train_tensor = torch.tensor(y_train, dtype=torch.float32).view(-1, 1)
 X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
 y_test_tensor = torch.tensor(y_test, dtype=torch.float32).view(-1, 1)
 
-# Name:THIRUMURUGAN R
-# Register Number:212223220118
+# Name:MOHAN KRISHNA J
+# Register Number:212223220060
 class NeuralNet(nn.Module):
   def __init__(self):
         super().__init__()
